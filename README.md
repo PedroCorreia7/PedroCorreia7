@@ -41,7 +41,7 @@
 
 #### **Ferramentas de Trabalho**:
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,notion,excel&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,excel&theme=dark" alt="Ferramentas" />
 </a>
 
 ---
@@ -62,4 +62,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3551a4&height=110&section=footer" />
