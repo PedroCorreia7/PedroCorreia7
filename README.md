@@ -1,6 +1,6 @@
 <p align="center">
   <em>
-    Olá! Sou Pedro Correia do Carmo, estudante de Sistemas de Informação na faculdade UNA. <br>
+    Olá! Me chamo Pedro Correia do Carmo, estudante de Sistemas de Informação . <br>
     Iniciante no mundo da programação , buscando aprender cada vez mais.
   </em>
 </p>
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joao-victor-fonseca&theme=radical" alt="Detalhes do Perfil" />
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroCorreia7&theme=radical" alt="Detalhes do Perfil" />
 </div>
 
 
@@ -31,29 +31,33 @@
 
 #### **Linguagens e Frameworks**:
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,react,nextjs,nodejs,express,docker,firebase,styledcomponents,sass,tailwind,prisma,babel,vercel,vite,vue,androidstudio,git,github&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,react,angular,nodejs,androidstudio,git,github&theme=dark" alt="Tech Stack" />
 </a>
 
 #### **Bancos de Dados**:
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" alt="Bancos de Dados" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Bancos de Dados" />
 </a>
 
 #### **Ferramentas de Trabalho**:
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,notion&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,notion,excel&theme=dark" alt="Ferramentas" />
 </a>
 
 ---
 
 ### 📧 Contato
 <div >
-  <a href="https://www.linkedin.com/in/joaovictorfonsecaassis/" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-correia-do-carmo-a18333265/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn" />
   </a>
-  <a href="mailto:joaovictorfosecaassis@gmail.com" target="_blank">
+  <a href="mailto:pedrinho9724@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Gmail" />
   </a>
+  <a href="https://www.instagram.com/pedro_.correia" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="50" alt="Gmail" />
+  </a>
+  
 </div>
 
 ---
