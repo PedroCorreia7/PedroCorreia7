@@ -41,7 +41,7 @@
 
 #### **Ferramentas de Trabalho**:
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,excel&theme=dark" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,figma,chatgpt,excel&theme=dark" alt="Ferramentas" />
 </a>
 
 ---
